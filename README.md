@@ -19,7 +19,7 @@ Autor: Álvaro Rubén Rodríguez Jiménez
 
 <p><b>Uso del juego</b></p>
 <p align="center">
-  <img width="500" height="800" src="https://user-images.githubusercontent.com/72138269/171164140-7378cd84-e580-45ef-9b1c-93b5035dabf2.gif">
+  <img width="600" height="700" src="https://user-images.githubusercontent.com/72138269/171164140-7378cd84-e580-45ef-9b1c-93b5035dabf2.gif">
 </p>
 
 
